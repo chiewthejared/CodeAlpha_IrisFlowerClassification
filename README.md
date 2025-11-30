@@ -1,5 +1,5 @@
-Iris Flower Classification — CodeAlpha (Task 1)
-📌 Overview
+**Iris Flower Classification — CodeAlpha (Task 1)**
+Overview
 
 This project classifies Iris flowers into three species (Setosa, Versicolor, Virginica) using machine learning.
 The dataset comes from Scikit-learn and includes four features:
@@ -12,7 +12,7 @@ Petal Length
 
 Petal Width
 
-🧰 Tools & Libraries
+Tools & Libraries
 
 Python
 
@@ -26,23 +26,23 @@ Matplotlib
 
 Joblib
 
-🔎 What the Project Does
+What the Project Does
 
-✔ Loads and explores the Iris dataset
-✔ Visualizes features
-✔ Splits data into training & testing sets
-✔ Trains two models: Logistic Regression & Random Forest
-✔ Evaluates accuracy and shows a confusion matrix
-✔ Saves the best model (iris_best_model.pkl)
+- Loads and explores the Iris dataset
+- Visualizes features
+- Splits data into training & testing sets
+- Trains two models: Logistic Regression & Random Forest
+- Evaluates accuracy and shows a confusion matrix
+- Saves the best model (iris_best_model.pkl)
 
-📊 Results
+Results
 Model	Accuracy
-Logistic Regression	93.33%
-Random Forest	90.00%
+Logistic Regression	- 93.33%
+Random Forest	- 90.00%
 
 Best model saved: iris_best_model.pkl
 
-▶️ How to Run
+How to Run
 
 Install dependencies
 
@@ -56,7 +56,4 @@ jupyter notebook Task1.ipynb
 
 Run all cells
 
-👤 Author
-
-Jared Chiew
-CodeAlpha Data Science Intern
+Author: Jared Chiew (CodeAlpha Data Science Intern)
