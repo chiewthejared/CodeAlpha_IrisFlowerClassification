@@ -27,7 +27,7 @@ Tools & Libraries:
 
 - Joblib
 
-What the Project Does
+What the Project Does:
 
 - Loads and explores the Iris dataset
 - Visualizes features
@@ -36,25 +36,20 @@ What the Project Does
 - Evaluates accuracy and shows a confusion matrix
 - Saves the best model (iris_best_model.pkl)
 
-Results
-Model	Accuracy
+Results:
+
 Logistic Regression	- 93.33%
+
 Random Forest	- 90.00%
 
 Best model saved: iris_best_model.pkl
 
-How to Run
+How to Run:
 
-Install dependencies
+- Install dependencies "pip install -r requirements.txt"
 
-pip install -r requirements.txt
+- Open the notebook "jupyter notebook Task1.ipynb"
 
-
-Open the notebook
-
-jupyter notebook Task1.ipynb
-
-
-Run all cells
+- Run all cells
 
 Author: Jared Chiew (CodeAlpha Data Science Intern)
