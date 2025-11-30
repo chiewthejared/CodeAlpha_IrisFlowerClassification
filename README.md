@@ -1,30 +1,31 @@
 **Iris Flower Classification — CodeAlpha (Task 1)**
+
 Overview
 
 This project classifies Iris flowers into three species (Setosa, Versicolor, Virginica) using machine learning.
 The dataset comes from Scikit-learn and includes four features:
 
-Sepal Length
+- Sepal Length
 
-Sepal Width
+- Sepal Width
 
-Petal Length
+- Petal Length
 
-Petal Width
+- Petal Width
 
-Tools & Libraries
+Tools & Libraries:
 
-Python
+- Python
 
-Pandas
+- Pandas
 
-NumPy
+- NumPy
 
-Scikit-learn
+- Scikit-learn
 
-Matplotlib
+- Matplotlib
 
-Joblib
+- Joblib
 
 What the Project Does
 
